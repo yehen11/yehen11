@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yehen 👋
 
-<!--
-**yehen11/yehen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at EUSL (GPA 3.81), building full-stack web and mobile apps.
 
-Here are some ideas to get you started:
+## 🛠 What I work with
+**Mobile:** Flutter · Dart  
+**Backend:** Java · Spring Boot · Node.js · Express  
+**Frontend:** TypeScript · JavaScript · HTML · CSS  
+**Database:** MySQL   
+**Tools:** Git · Postman · Figma · Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured projects
+- [travel_app](https://github.com/yehen11/travel_app) — Next.js travel app (TypeScript)
+- [stripe-gateway](https://github.com/yehen11/stripe-gateway) — Stripe payment integration (TypeScript)
+- [express-students-api](https://github.com/yehen11/express-students-api) — REST API with full CRUD (Node.js)
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yehen-samarasinghe3502a0291/)
